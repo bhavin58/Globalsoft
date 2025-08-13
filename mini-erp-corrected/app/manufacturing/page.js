@@ -1,1 +1,0 @@
-export default function Manufacturing() { return <h1>Manufacturing Module</h1>; }

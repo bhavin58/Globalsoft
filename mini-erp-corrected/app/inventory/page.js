@@ -1,1 +1,0 @@
-export default function Inventory() { return <h1>Inventory Module</h1>; }
