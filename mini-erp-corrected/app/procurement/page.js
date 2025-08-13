@@ -1,0 +1,1 @@
+export default function Procurement() { return <h1>Procurement Module</h1>; }
