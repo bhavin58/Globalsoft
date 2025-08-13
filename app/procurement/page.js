@@ -1,0 +1,1 @@
+export default function Page(){return(<h1>Procurement Page</h1>);}

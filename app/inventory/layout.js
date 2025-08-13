@@ -1,0 +1,1 @@
+export default function InventoryLayout({ children }){return(<section className='space-y-4'>{children}</section>);}

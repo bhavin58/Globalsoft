@@ -1,0 +1,1 @@
+export default function SalesLayout({ children }){return(<section className='space-y-4'>{children}</section>);}

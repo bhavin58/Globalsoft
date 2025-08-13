@@ -1,0 +1,1 @@
+export default function ProcurementLayout({ children }){return(<section className='space-y-4'>{children}</section>);}
